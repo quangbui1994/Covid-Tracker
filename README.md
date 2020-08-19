@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The application could be visited [here](https://covid19-autotrack.netlify.app/)
 
 ## Available Scripts
 
